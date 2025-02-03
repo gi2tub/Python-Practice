@@ -3,7 +3,7 @@ P = 108
 
 u = str(input("Enter username:"))
 p = int(input("Enter password:"))
-if u==U and p==P:
+if U==u and P==p:
     print("Welcome")
 else:
     print("Incorrect data enterd")
